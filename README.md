@@ -1,4 +1,4 @@
-# IS590PR Assignment 4: Pandas & Stock Analysis IS590PR
+# IS590PR Assignment 4: Pandas & Stock Analysis 
 
 Review Chapter 4 of McKinney’s book and the Jupyter Notebook we looked at in class by Shubhanshu Mishra here: https://github.com/napsternxg/DataAnalysisPython
 
